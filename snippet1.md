@@ -7,7 +7,7 @@
   删除 user:  
   DROP USER ‘username’@‘localhost’;  
 
-- 修改ubuntu 20.04 apt source
+- 修改ubuntu 20.04 apt source  
 deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse  
 deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse  
 
